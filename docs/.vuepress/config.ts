@@ -34,7 +34,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    hostname: 'https://ysh0313.github.io/',
+    hostname: 'https://yuanshao-blog.netlify.app',
     // your git repo url
     docsRepo: '',
     docsDir: 'docs',
