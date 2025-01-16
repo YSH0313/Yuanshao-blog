@@ -6,7 +6,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/yuanshao-blog/',
   lang: 'zh-CN',
   locales: {
     '/': {
